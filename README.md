@@ -70,8 +70,8 @@ Welcome to **PRT**, a comprehensive project management platform built with **Nex
 To run the project, create a `.env.local` file in the root directory with the following:
 
 ```env
-NEXT_PUBLIC_CLERK_PUBLISHABLE_KEY=pk_test_cmVsYXhlZC1jYXR0bGUtODAuY2xlcmsuYWNjb3VudHMuZGV2JA
-CLERK_SECRET_KEY=sk_test_wjgbLdp4OGPkD5ieikgbIxNOaiml43ZLy9CYcAGhhl
+NEXT_PUBLIC_CLERK_PUBLISHABLE_KEY=your-clerk-publishable-key
+CLERK_SECRET_KEY=your-clerk-secret-key
 ```
 
 ---
